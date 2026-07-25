@@ -1,4 +1,5 @@
-# Music Genre Classification
+# Spotify Music Genre Classification - Machine Learning Models - Streamlit Dashboard
+
 
 An end-to-end machine learning pipeline that classifies Spotify songs into genres using audio features, deployed as an interactive Streamlit dashboard with a Spotify-inspired dark theme.
 
