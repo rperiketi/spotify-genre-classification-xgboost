@@ -29,7 +29,7 @@ genre_classification/
 
 - Go to https://www.kaggle.com/code/varunsaikanuri/spotify-data-visualization/input
 - Download `songs_normalize.csv`
-- Place it in `genre_classification/data/`
+- Place it in `spotify-genre-classification-xgboost/data/`
 
 ### 2. Create a Virtual Environment
 
